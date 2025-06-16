@@ -1,0 +1,11 @@
+transformers
+datasets
+nltk
+scikit-learn
+matplotlib
+seaborn
+torch
+tqdm
+numpy
+pandas
+rouge-score
